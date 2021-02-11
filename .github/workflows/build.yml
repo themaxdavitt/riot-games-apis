@@ -1,16 +1,16 @@
 name: Build
 on:
 	schedule:
-    - cron: 0 0 * * *
+		- cron: 0 0 * * *
 	workflow_dispatch:
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
-      - uses: actions/checkout@v2
+	build:
+		runs-on: ubuntu-latest
+		steps:
+			- uses: actions/setup-node@v1
+				with:
+					node-version: 14.x
+			- uses: actions/checkout@v2
 				with:
 					submodules: recursive
-      - run: npm run build
+			- run: npm run build
