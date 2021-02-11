@@ -5,7 +5,7 @@ end_of_line = lf
 indent_style = tab
 insert_final_newline = true
 
-[{generator/**,lib/**,*.json}]
+[{.github/**,generator/**,lib/**,*.json}]
 end_of_line = unset
 indent_style = unset
 insert_final_newline = unset
