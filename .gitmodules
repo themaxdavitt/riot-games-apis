@@ -1,0 +1,4 @@
+[submodule "generator"]
+	path = generator
+	url = https://github.com/MingweiSamuel/riotapi-schema
+	fetchRecurseSubmodules = true

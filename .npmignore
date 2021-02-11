@@ -1,0 +1,4 @@
+.gitmodules
+generator
+/client.d.ts
+/openapi-3.0.0.json
