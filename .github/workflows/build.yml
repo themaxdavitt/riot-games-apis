@@ -12,6 +12,7 @@ jobs:
           node-version: 14.x
       - uses: actions/checkout@v2
         with:
+          fetch-depth: 0
           submodules: recursive
       - run: npm install
       - run: npm run build
