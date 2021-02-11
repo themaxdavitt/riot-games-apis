@@ -13,7 +13,7 @@ We do this automatically in `npm run build` before publishing. Just sit back and
 
 ## Versioning
 
-We're following a [SemVer](https://semver.org/)-compatible version of [CalVer](https://calver.org/) (equivalent to `date +0.%Y.%j`) since we have no idea when Riot will update their APIs.
+We're following a [SemVer](https://semver.org/)-compatible version of [CalVer](https://calver.org/) (similar to `date +0.%Y.%j`) since we have no idea when Riot will update their APIs.
 
 ## License
 
