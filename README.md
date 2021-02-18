@@ -13,7 +13,7 @@ We do this automatically in `npm run build` before publishing. Just sit back and
 
 ## Documentation
 
-After building, HTML documentation is generated in a `docs/` folder. You can access it at `node_modules/@themaxdavitt/riot-games-apis/docs/index.html` or [online](https://themaxdavitt.github.io/game-api-docs/riot-games-apis/).
+After building, HTML documentation is generated in a `docs/` folder. You can access it at `node_modules/@themaxdavitt/riot-games-apis/docs/index.html` or [online](https://themaxdavitt.github.io/game-apis/riot-games-apis/).
 
 ## Versioning
 
