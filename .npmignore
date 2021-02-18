@@ -1,3 +1,4 @@
+.editorconfig
 .gitmodules
 generator
 /client.d.ts
