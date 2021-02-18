@@ -11,6 +11,10 @@ We use [`MingweiSamuel/riotapi-schema`](https://github.com/MingweiSamuel/riotapi
 
 We do this automatically in `npm run build` before publishing. Just sit back and relax.
 
+## Documentation
+
+After building, HTML documentation is generated in a `docs/` folder. You can access it at `node_modules/@themaxdavitt/riot-games-apis/docs/index.html` or [online](https://themaxdavitt.github.io/game-api-docs/riot-games-apis/).
+
 ## Versioning
 
 We're following a [SemVer](https://semver.org/)-compatible version of [CalVer](https://calver.org/) (similar to `date +0.%Y.%j`) since we have no idea when Riot will update their APIs.
