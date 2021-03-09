@@ -1,6 +1,6 @@
 # `@themaxdavitt/riot-games-apis`
 
-[![NPM link](https://img.shields.io/npm/v/@themaxdavitt/riot-games-apis?style=flat-square)](https://npmjs.com/package/@themaxdavitt/riot-games-apis) [![Package license](https://img.shields.io/npm/l/@themaxdavitt/riot-games-apis?style=flat-square)](LICENSE) 
+[![NPM link](https://img.shields.io/npm/v/@themaxdavitt/riot-games-apis?style=flat-square)](https://npmjs.com/package/@themaxdavitt/riot-games-apis) [![Package license](https://img.shields.io/npm/l/@themaxdavitt/riot-games-apis?style=flat-square)](https://github.com/themaxdavitt/riot-games-apis/blob/main/LICENSE) 
 
 Auto-generated [`axios`](https://www.npmjs.com/package/axios)-powered Typescript Riot Games API client.
 
