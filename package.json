@@ -1,6 +1,6 @@
 {
   "name": "@themaxdavitt/riot-games-apis",
-  "version": "0.2021.49",
+  "version": "0.2021.68",
   "description": "Auto-generated axios-powered Typescript Riot Games API client",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
